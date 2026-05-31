@@ -1,9 +1,5 @@
 # Mantle Images
 
-> [!NOTE]
-> **Status: Beta (v1.0.0)**  
-> Mantle Images is currently in public Beta. Feature updates concentrate on supporting additional image formats and improving cropping controls.
-
 Mantle Images provides professional-grade image editing, resizing, and cropping tools directly within your Obsidian vault. It eliminates the need to use external image editors, allowing you to crop and format diagrams, photos, or screenshots directly inside your markdown notes.
 
 ---
@@ -25,7 +21,7 @@ Mantle Images matches the design tokens of the **Project Mantle** core workspace
 
 ## 📥 Installation
 
-### Method A: Via Obsidian Community Directory (Recommended once approved)
+### Method A: Via Obsidian Community Directory (Recommended)
 1. Go to **Settings** > **Community plugins** > **Browse**.
 2. Search for **Mantle Images**.
 3. Click **Install**, then click **Enable**.
